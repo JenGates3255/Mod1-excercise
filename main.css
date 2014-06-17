@@ -1,0 +1,41 @@
+/*Excercise 1*/
+
+.table1 {
+	width: 670px;
+}
+
+td {
+	border-bottom:1px solid black;	
+}
+
+th {
+	border-bottom:1px solid black;
+}
+
+tr:last-child td{
+	border-bottom: none;
+}
+
+/*Excersice 2*/
+
+.gf {
+	font-size: 11px;
+	color: #D6D6C2;
+	padding-bottom: 10px;
+
+}
+.num {
+	font-size: 30px;
+	font-weight: bolder;
+	display:block;
+	padding-top: 10px;
+}
+
+.table2 {
+	width:200px;
+	border-top: 2px solid #D6D6C2;
+	border-bottom: 2px solid #D6D6C2;
+	text-align: center;
+}
+
+/*Excersice 3*/
