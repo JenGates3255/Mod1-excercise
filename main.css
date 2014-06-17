@@ -4,15 +4,15 @@
 	width: 670px;
 }
 
-td {
+.table1 td {
 	border-bottom:1px solid black;	
 }
 
-th {
+.table1 th {
 	border-bottom:1px solid black;
 }
 
-tr:last-child td{
+.table tr:last-child td{
 	border-bottom: none;
 }
 
@@ -39,3 +39,11 @@ tr:last-child td{
 }
 
 /*Excersice 3*/
+
+.bar {
+	background-color: #2C73DE;
+	
+}
+.table3 {
+	
+}
