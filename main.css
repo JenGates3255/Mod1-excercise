@@ -1,4 +1,4 @@
-/*Excercise 1*/
+/* Excercise 1*/
 
 .table1 {
 	width: 670px;
@@ -16,7 +16,7 @@
 	border-bottom: none;
 }
 
-/*Excersice 2*/
+/* Excercise 2*/
 
 .gf {
 	font-size: 11px;
@@ -38,12 +38,67 @@
 	text-align: center;
 }
 
-/*Excersice 3*/
+/* Excercise 3*/
 
 .bar {
-	background-color: #2C73DE;
-	
+	color: white;
+	text-indent: 4px;
+	background-color: #5893EB;
+	border-radius: 0 4px 4px 0;
+	height: 20px;
+	padding-top: 3px;
+	font-size: 14px;
+
 }
-.table3 {
-	
+.table3 td {
+	width: 85%;
 }
+
+.table3 th {
+	text-align: right;
+	padding-right: 7px;
+}
+
+/* Excercise 4 */
+
+.graybox {
+	width: 750px;
+	height: 500px;
+	background-color: gray;
+	position: relative;
+
+}
+
+
+.whitebox {
+	width:500px;
+	height:250px;
+	background-color: white;
+	position: absolute;
+	border-radius: 10px;
+	top: 50%;
+	left: 50%;
+	margin-top: -125px;
+	margin-left:-250px;
+	padding: 5px 5px 5px 5px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
